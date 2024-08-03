@@ -1,0 +1,15 @@
+{
+  "name": "hono-chatbot-api",
+  "scripts": {
+    "dev": "sst dev",
+    "deploy": "sst deploy",
+    "remove": "sst remove"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^0.0.40",
+    "@aws-sdk/client-lambda": "^3.623.0",
+    "ai": "^3.3.0",
+    "hono": "^4.5.3",
+    "sst": "ion"
+  }
+}
