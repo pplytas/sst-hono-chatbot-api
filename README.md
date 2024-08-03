@@ -1,4 +1,6 @@
-To install dependencies:
+# Serverless Slack Chatbot
+
+Install dependencies:
 
 ```sh
 npm install
@@ -10,4 +12,8 @@ To run:
 npm run dev
 ```
 
-open http://localhost:3000
+To deploy:
+
+```sh
+npm run deploy
+```
